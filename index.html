@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#f5f5f5" />
+    <meta name="description" content="A tiny offline app that drills grammar: verb conjugation, gender/article, pluralization, case endings." />
+    <link rel="manifest" href="./manifest.webmanifest" />
+    <title>Grammar Mini-Trainer</title>
+    <script>
+      (function() {
+        var t = localStorage.getItem('grammar-trainer-theme');
+        if (t === 'dark' || t === 'light') document.documentElement.setAttribute('data-theme', t);
+        else if (window.matchMedia('(prefers-color-scheme: dark)').matches) document.documentElement.setAttribute('data-theme', 'dark');
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

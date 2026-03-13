@@ -1,0 +1,41 @@
+{
+  "conceptType": "verb-conjugation",
+  "language": "es",
+  "tense": "present",
+  "persons": ["1s", "2s", "3s", "1p", "2p", "3p"],
+  "items": [
+    {
+      "infinitive": "hablar",
+      "forms": {
+        "1s": "hablo",
+        "2s": "hablas",
+        "3s": "habla",
+        "1p": "hablamos",
+        "2p": "habláis",
+        "3p": "hablan"
+      }
+    },
+    {
+      "infinitive": "comer",
+      "forms": {
+        "1s": "como",
+        "2s": "comes",
+        "3s": "come",
+        "1p": "comemos",
+        "2p": "coméis",
+        "3p": "comen"
+      }
+    },
+    {
+      "infinitive": "vivir",
+      "forms": {
+        "1s": "vivo",
+        "2s": "vives",
+        "3s": "vive",
+        "1p": "vivimos",
+        "2p": "vivís",
+        "3p": "viven"
+      }
+    }
+  ]
+}

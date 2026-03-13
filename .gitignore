@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Build and compilation
+dist/
+release/
+*.tsbuildinfo
+.tsbuildinfo
+
+# Logs and env
+*.log
+npm-debug.log*
+.env
+.env.local
+.env.*.local
+
+# OS and editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Lint and tooling
+.eslintcache
+
+# Markdown (keep only root README)
+*.md
+!/README.md

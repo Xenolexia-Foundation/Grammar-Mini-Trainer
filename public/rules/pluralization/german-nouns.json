@@ -1,0 +1,17 @@
+{
+  "conceptType": "pluralization",
+  "language": "de",
+  "hintText": "Common German noun plural patterns: -e, -er, -(e)n, -s, umlaut",
+  "items": [
+    { "singular": "der Mann", "plural": "die Männer" },
+    { "singular": "die Frau", "plural": "die Frauen" },
+    { "singular": "das Kind", "plural": "die Kinder" },
+    { "singular": "der Tisch", "plural": "die Tische" },
+    { "singular": "die Lampe", "plural": "die Lampen" },
+    { "singular": "das Buch", "plural": "die Bücher" },
+    { "singular": "der Hund", "plural": "die Hunde" },
+    { "singular": "die Katze", "plural": "die Katzen" },
+    { "singular": "das Haus", "plural": "die Häuser" },
+    { "singular": "der Apfel", "plural": "die Äpfel" }
+  ]
+}

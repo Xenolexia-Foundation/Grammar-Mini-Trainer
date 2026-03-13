@@ -1,0 +1,68 @@
+{
+  "conceptType": "verb-conjugation",
+  "language": "en",
+  "tense": "present",
+  "persons": ["1s", "2s", "3s", "1p", "2p", "3p"],
+  "items": [
+    {
+      "infinitive": "to be",
+      "difficulty": 1,
+      "forms": {
+        "1s": "am",
+        "2s": "are",
+        "3s": "is",
+        "1p": "are",
+        "2p": "are",
+        "3p": "are"
+      }
+    },
+    {
+      "infinitive": "to have",
+      "difficulty": 1,
+      "forms": {
+        "1s": "have",
+        "2s": "have",
+        "3s": "has",
+        "1p": "have",
+        "2p": "have",
+        "3p": "have"
+      }
+    },
+    {
+      "infinitive": "to go",
+      "difficulty": 2,
+      "forms": {
+        "1s": "go",
+        "2s": "go",
+        "3s": "goes",
+        "1p": "go",
+        "2p": "go",
+        "3p": "go"
+      }
+    },
+    {
+      "infinitive": "to do",
+      "difficulty": 2,
+      "forms": {
+        "1s": "do",
+        "2s": "do",
+        "3s": "does",
+        "1p": "do",
+        "2p": "do",
+        "3p": "do"
+      }
+    },
+    {
+      "infinitive": "to say",
+      "difficulty": 3,
+      "forms": {
+        "1s": "say",
+        "2s": "say",
+        "3s": "says",
+        "1p": "say",
+        "2p": "say",
+        "3p": "say"
+      }
+    }
+  ]
+}

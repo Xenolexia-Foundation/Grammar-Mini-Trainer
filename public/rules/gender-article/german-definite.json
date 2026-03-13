@@ -1,0 +1,20 @@
+{
+  "conceptType": "gender-article",
+  "language": "de",
+  "articleType": "definite",
+  "hintText": "Definite article: der (m), die (f), das (n)",
+  "items": [
+    { "noun": "Mann", "article": "der" },
+    { "noun": "Frau", "article": "die" },
+    { "noun": "Kind", "article": "das" },
+    { "noun": "Tisch", "article": "der" },
+    { "noun": "Lampe", "article": "die" },
+    { "noun": "Buch", "article": "das" },
+    { "noun": "Hund", "article": "der" },
+    { "noun": "Katze", "article": "die" },
+    { "noun": "Haus", "article": "das" },
+    { "noun": "Apfel", "article": "der" },
+    { "noun": "Banane", "article": "die" },
+    { "noun": "Wasser", "article": "das" }
+  ]
+}

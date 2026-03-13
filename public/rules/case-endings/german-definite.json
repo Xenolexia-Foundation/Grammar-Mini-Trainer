@@ -1,0 +1,20 @@
+{
+  "conceptType": "case-endings",
+  "language": "de",
+  "contextName": "Definite article (der/die/das)",
+  "hintText": "Nominative, accusative, dative, genitive × masculine, feminine, neuter",
+  "items": [
+    { "label": "nominative, masculine", "form": "der" },
+    { "label": "nominative, feminine", "form": "die" },
+    { "label": "nominative, neuter", "form": "das" },
+    { "label": "accusative, masculine", "form": "den" },
+    { "label": "accusative, feminine", "form": "die" },
+    { "label": "accusative, neuter", "form": "das" },
+    { "label": "dative, masculine", "form": "dem" },
+    { "label": "dative, feminine", "form": "der" },
+    { "label": "dative, neuter", "form": "dem" },
+    { "label": "genitive, masculine", "form": "des" },
+    { "label": "genitive, feminine", "form": "der" },
+    { "label": "genitive, neuter", "form": "des" }
+  ]
+}

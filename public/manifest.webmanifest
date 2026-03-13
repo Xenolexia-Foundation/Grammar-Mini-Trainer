@@ -1,0 +1,9 @@
+{
+  "name": "Grammar Mini-Trainer",
+  "short_name": "Grammar Trainer",
+  "description": "Drill grammar offline: verb conjugation, gender/article, pluralization, case endings.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f5f5",
+  "theme_color": "#2563eb"
+}
